@@ -1,0 +1,188 @@
+product_name,category,sub_category,product_id
+Milk,Grocery,Dairy Products,1
+Clocks,Home & Kitchen,Home Decor,2
+Swimsuit,Clothing,Women's Clothing,3
+Canon EOS RP,Electronics,Cameras,4
+TCL Roku TV,Electronics,Televisions,5
+Lenovo ThinkPad,Electronics,Laptops,6
+Shorts,Clothing,Women's Clothing,7
+Blueberry,Grocery,Fruits & Vegetables,8
+Jeans,Clothing,Kids' Clothing,9
+LG OLED,Electronics,Televisions,10
+Candles,Home & Kitchen,Home Decor,11
+Hisense H9G,Electronics,Televisions,12
+Bread,Grocery,Bakery,13
+Shorts,Clothing,Kids' Clothing,14
+Grapes,Grocery,Fruits & Vegetables,15
+Chips,Grocery,Snacks,16
+Beats Solo Pro,Electronics,Headphones,17
+Microsoft Surface Laptop,Electronics,Laptops,18
+T-Shirt,Clothing,Men's Clothing,19
+Wok,Home & Kitchen,Cookware,20
+Dress,Clothing,Women's Clothing,21
+HP Pavilion,Electronics,Laptops,22
+JBL Tune 750BTNC,Electronics,Headphones,23
+Rug,Home & Kitchen,Home Decor,24
+Sweater,Clothing,Kids' Clothing,25
+Wall Art,Home & Kitchen,Home Decor,26
+Beans,Grocery,Canned Goods,27
+Sony Alpha a7 III,Electronics,Cameras,28
+Chair,Home & Kitchen,Furniture,29
+Google Pixel,Electronics,Smartphones,30
+Bose SoundLink Around Ear Wireless Headphones II,Electronics,Headphones,31
+Dresser,Home & Kitchen,Furniture,32
+Blouse,Clothing,Women's Clothing,33
+Apple,Grocery,Fruits & Vegetables,34
+Panasonic Lumix GH5,Electronics,Cameras,35
+Air Conditioner,Home & Kitchen,Appliances,36
+Olympus OM-D E-M1 Mark III,Electronics,Cameras,37
+Soup,Grocery,Canned Goods,38
+Sectional Sofa,Home & Kitchen,Furniture,39
+Pretzels,Grocery,Snacks,40
+Couch,Home & Kitchen,Furniture,41
+Sports Drink,Grocery,Beverages,42
+Panasonic Lumix S5,Electronics,Cameras,43
+Food Processor,Home & Kitchen,Appliances,44
+Jabra Elite 85h,Electronics,Headphones,45
+Sennheiser Momentum Wireless,Electronics,Headphones,46
+Rice Cooker,Home & Kitchen,Appliances,47
+Cake,Grocery,Bakery,48
+Milkshake,Grocery,Beverages,49
+Pants,Clothing,Kids' Clothing,50
+Jerky,Grocery,Snacks,51
+Watermelon,Grocery,Fruits & Vegetables,52
+MacBook Pro,Electronics,Laptops,53
+Brownie,Grocery,Bakery,54
+Lenovo IdeaPad,Electronics,Laptops,55
+Bookshelf,Home & Kitchen,Furniture,56
+Frying Pan,Home & Kitchen,Cookware,57
+Pants,Clothing,Men's Clothing,58
+Corned Beef Hash,Grocery,Canned Goods,59
+Nikon D780,Electronics,Cameras,60
+Saucepan,Home & Kitchen,Cookware,61
+Leggings,Clothing,Women's Clothing,62
+Asus VivoBook,Electronics,Laptops,63
+Tuna,Grocery,Canned Goods,64
+Sweater,Clothing,Men's Clothing,65
+Suit,Clothing,Men's Clothing,66
+OnePlus,Electronics,Smartphones,67
+Desk,Home & Kitchen,Furniture,68
+Coffee Maker,Home & Kitchen,Appliances,69
+Bed,Home & Kitchen,Furniture,70
+Asus ZenBook,Electronics,Laptops,71
+Popcorn,Grocery,Snacks,72
+Sony Alpha a6600,Electronics,Cameras,73
+Fruit Cocktail,Grocery,Canned Goods,74
+Slow Cooker,Home & Kitchen,Appliances,75
+Jacket,Clothing,Men's Clothing,76
+Nikon Z6 II,Electronics,Cameras,77
+Roasting Pan,Home & Kitchen,Cookware,78
+Dining Table,Home & Kitchen,Furniture,79
+Hoodie,Clothing,Women's Clothing,80
+Nuts,Grocery,Snacks,81
+Coffee,Grocery,Beverages,82
+Tea,Grocery,Beverages,83
+Nightstand,Home & Kitchen,Furniture,84
+Bose QuietComfort 35 II,Electronics,Headphones,85
+Table,Home & Kitchen,Furniture,86
+Donut,Grocery,Bakery,87
+Hoodie,Clothing,Kids' Clothing,88
+Shirt,Clothing,Men's Clothing,89
+SpaghettiOs,Grocery,Canned Goods,90
+Cupcake,Grocery,Bakery,91
+Sony Bravia,Electronics,Televisions,92
+Sofa,Home & Kitchen,Furniture,93
+Lamps,Home & Kitchen,Home Decor,94
+Banana,Grocery,Fruits & Vegetables,95
+Pretzel,Grocery,Bakery,96
+Cooking Tools,Home & Kitchen,Cookware,97
+Refrigerator,Home & Kitchen,Appliances,98
+Sour Cream,Grocery,Dairy Products,99
+Dress,Clothing,Kids' Clothing,100
+Ottoman,Home & Kitchen,Furniture,101
+Picture Frames,Home & Kitchen,Home Decor,102
+Socks,Clothing,Men's Clothing,103
+Motorola Moto G,Electronics,Smartphones,104
+Utensils,Home & Kitchen,Cookware,105
+Pressure Cooker,Home & Kitchen,Cookware,106
+Pineapple,Grocery,Fruits & Vegetables,107
+Apple AirPods Max,Electronics,Headphones,108
+Jeans,Clothing,Men's Clothing,109
+HP Spectre,Electronics,Laptops,110
+Blender,Home & Kitchen,Appliances,111
+Cutlery,Home & Kitchen,Cookware,112
+Pants,Clothing,Women's Clothing,113
+Huawei P,Electronics,Smartphones,114
+Cheese,Grocery,Dairy Products,115
+Skirt,Clothing,Women's Clothing,116
+Baguette,Grocery,Bakery,117
+Sony X950H,Electronics,Televisions,118
+Tomato Sauce,Grocery,Canned Goods,119
+Vizio M-Series Quantum,Electronics,Televisions,120
+Coat,Clothing,Women's Clothing,121
+Curtains,Home & Kitchen,Home Decor,122
+Fujifilm X-T4,Electronics,Cameras,123
+Grill Pan,Home & Kitchen,Cookware,124
+Planters,Home & Kitchen,Home Decor,125
+Washing Machine,Home & Kitchen,Appliances,126
+Skullcandy Crusher Wireless,Electronics,Headphones,127
+Juicer,Home & Kitchen,Appliances,128
+Jumpsuit,Clothing,Women's Clothing,129
+Yogurt,Grocery,Dairy Products,130
+Dell XPS,Electronics,Laptops,131
+Pots and Pans,Home & Kitchen,Cookware,132
+Canon EOS R5,Electronics,Cameras,133
+iPhone,Electronics,Smartphones,134
+Dell Inspiron,Electronics,Laptops,135
+Soda,Grocery,Beverages,136
+Nokia,Electronics,Smartphones,137
+Samsung Galaxy,Electronics,Smartphones,138
+Vizio OLED,Electronics,Televisions,139
+Swimsuit,Clothing,Kids' Clothing,140
+Trail Mix,Grocery,Snacks,141
+Throw Pillows,Home & Kitchen,Home Decor,142
+Bakeware,Home & Kitchen,Cookware,143
+Microwave,Home & Kitchen,Appliances,144
+Google Nexus,Electronics,Smartphones,145
+Acer Swift,Electronics,Laptops,146
+Butter,Grocery,Dairy Products,147
+Cottage Cheese,Grocery,Dairy Products,148
+Vacuum Cleaner,Home & Kitchen,Appliances,149
+Blazer,Clothing,Men's Clothing,150
+Energy Drink,Grocery,Beverages,151
+Kiwi,Grocery,Fruits & Vegetables,152
+Candy,Grocery,Snacks,153
+Xiaomi Mi,Electronics,Smartphones,154
+Sweater,Clothing,Women's Clothing,155
+T-Shirt,Clothing,Kids' Clothing,156
+LG NanoCell,Electronics,Televisions,157
+Decorative Objects,Home & Kitchen,Home Decor,158
+Samsung The Frame,Electronics,Televisions,159
+Samsung QLED,Electronics,Televisions,160
+Water,Grocery,Beverages,161
+Whipping Cream,Grocery,Dairy Products,162
+Vases,Home & Kitchen,Home Decor,163
+Croissant,Grocery,Bakery,164
+Muffin,Grocery,Bakery,165
+Cookies,Grocery,Snacks,166
+Cream Cheese,Grocery,Dairy Products,167
+Mirror,Home & Kitchen,Home Decor,168
+LG Stylo,Electronics,Smartphones,169
+Juice,Grocery,Beverages,170
+Toaster,Home & Kitchen,Appliances,171
+Shorts,Clothing,Men's Clothing,172
+Sony Xperia,Electronics,Smartphones,173
+Strawberry,Grocery,Fruits & Vegetables,174
+Audio-Technica ATH-M50xBT,Electronics,Headphones,175
+Hoodie,Clothing,Men's Clothing,176
+Sony WH-1000XM4,Electronics,Headphones,177
+Mango,Grocery,Fruits & Vegetables,178
+Tomato,Grocery,Fruits & Vegetables,179
+Swim Trunks,Clothing,Men's Clothing,180
+Dutch Oven,Home & Kitchen,Cookware,181
+Acer Aspire,Electronics,Laptops,182
+Raspberry,Grocery,Fruits & Vegetables,183
+Orange,Grocery,Fruits & Vegetables,184
+Scone,Grocery,Bakery,185
+Microsoft Surface,Electronics,Laptops,186
+HTC One,Electronics,Smartphones,187
