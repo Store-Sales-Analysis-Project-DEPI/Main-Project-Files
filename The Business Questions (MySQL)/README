@@ -1,0 +1,17 @@
+To Run this MySQL Queries:
+
+1) Create Database carrefour_db;
+2) Run All question alone to see the result.
+
+3) The Questions:
+Q1) What are the total Sales and net profit on a monthly and Year basis?
+Q2) Which days of the week see the highest volume of orders?    
+Q3) Which cities generate the highest sales value and the greatest profit?
+Q4) Customer segmentation based on Repeat Buyig:
+Q5) Calculating the average number of days between orders for repeat customers:
+Q6) Who are the top 10 clients (VIP)?
+Q7) Which departments are the best-selling and generate the highest total profit?
+Q8) Which products are generating losses (their profit is negative)?
+Q9) What are the most commonly used payment methods?
+Q10) The method most frequently chosen by customers:
+Q11) Ratio of shipped orders to pending orders: Q11) Ratio of shipped orders to pending orders:
